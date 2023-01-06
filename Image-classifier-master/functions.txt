@@ -1,5 +1,5 @@
 format() -> this function can be used for formatting anything inside a string
-print("hello {} how are you".format('aakash'))
+print("hello {} how are you".format('aditya'))
 
 verse = "hello how are you"
 
